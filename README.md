@@ -17,4 +17,4 @@ The password changes every time the program is run ensuring a new random passwor
 When the project is run a GUI popup will appear that shows the dynamically changing secure Password
 
 ### Technologies used
-python
+python + Tkinter
